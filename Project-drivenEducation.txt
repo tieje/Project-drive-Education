@@ -1,0 +1,135 @@
+Project-driven Education
+
+Principles or Rules
+1. We shall not ignore the poor or middle class.
+    a. 23-25% of students will pay full tuition. These will primarily be from upper-middle class families.
+        i. This is based on "Going Critical"
+            1. https://www.meltingasphalt.com/interactive/going-critical/
+2. The other 75% will pay reduced or no tuition. This will be based on the New Haven lottery system.
+
+5/16/2019
+Basic Premise of a project-driven education system
+This post was taken from my facebook page, posted on May 9th
+------------------------------------------------------------------
+
+One of the biggest problems of education is the impracticality of learning vast amounts of information, a lot of which, you will never use. Ever. The only subject that is incredibly important is World History class because controlling the past is like controlling time itself. All other subjects, except those related to healthcare, like the sciences and the advanced humanities should be project-driven. Projects are far more meaningful to individuals and students because humans "feel out" purpose and stories. We should not entrust our futures to pieces of paper called "tests" and "homework". I think these structures erode society, socially and intellectually. I think we shy away from projects because they can be expensive for the student(s). Providing students with a budget for projects, cuts into the bottom-line and thus decreases financial efficiency of educating each student, at the cost of potential social, intellectual, and personal narrative gains for the student. Instructors and lectures would still exist, but they would be more optional as you would choose to attend those related to your project.
+
+In other words, this structure most-closely resembles being a post-grad student or living real adult life.
+
+Counter-point #1: It's too expensive to have project-driven education. My answer: we pay literally tens of thousands of dollars and hours of time just to write words on a piece of paper to figure out how knowledgeable or "smart" we are.
+Counter-point #2: Not everyone can think for themselves, or know how to approach a project. My answer: this is something ingrained in our culture, but that doesn't mean it can't change. Approaching a project is not financially costly compared to college. Approaching a project is, however, emotionally taxing because it constantly forces us to answer "Why?" questions as it pertains to the project and our larger personal narrative.
+
+The motivation of industry to maintain this status quo, is to ensure that they receive the most productive workers with the least overhead cost. The motivation of society to maintain the status quo is to receive the smartest citizens with the least overhead cost. The motivation of individuals to maintain the status quo is to receive the best personal situations at the least overhead cost. Every actor (except certain companies) at every stage is near-sighted because we are all fixed on overhead costs, rather than the potential upside. I'm not promoting a collectivist society (spoiler: they never work because they limit personal freedom). But, we have been wired to think in terms of scarcity, a mindset of scarcity. We, as a people, overwhelmingly lack the positive traits related to a mindset of abundance, and at no fault of our own. Hopefully someday, we'll figure this out.
+
+------------------------------------------------------------------
+
+
+
+Required classes
+1. Traditional classes
+    a. World History
+    b. US History
+    c. Personal Finance
+    d. Civics/AP US Gov
+    e. Psychology/AP Psychology
+2. Non-traditional classes
+    a. Learning How to Learn
+    b. Life Design, Prototyping, Mental Health, and Relationships
+        i. Based on "Lean Startup" by Eric Ries and "Design Your Life" by Bill Burnett & Dave Evans
+    c. Professional Etiquette and Basic Computer skills. Professional etiquette is what separates adults from children.
+    d. Public speaking and persuasive writing. Shy people can always opt for persuasive writing.
+    e. Fundamental Laws of Science and Math
+        i. Includes the role of science in society, industry, and academia. Healthcare is the exception of project-driven education.
+        ii. Learning basic science and math.
+
+Non-traditional class occur in the first semester. Traditional classes occur in the second semester. They can be re-attended and are entirely pass/fail where failure is less than 90% on approved tests, where 70-90% in an AP class will be considered a pass for Civics or basic Psychology and will be downgraded as such.
+
+Offered Classes and Lectures
+
+Voting for classes and lectures for next semester will be based on Quadratic Voting by students (based on https://www.bloomberg.com/news/articles/2019-05-01/a-new-way-of-voting-that-makes-zealotry-expensive)
+
+Nominations can be submitted any time. Submissions will be whittled down by Ranked Choice Voting at the beginning, middle, and end of every semester to determine classes and lectures offered next semester.
+
+------------------------------------------------------------------
+
+Proposition 1: Project-Driven Education
+
+------------------------------------------------------------------
+
+The main task assigned to a student is completing a project. Projects can be abandoned any time, but student engagement of the project must be recorded by the student(s) on an online public ledger. Guided projects may be abandoned any time without official record. Abandoning an original projects must be recorded by the student(s) (group leader/group vote).
+
+There are two kinds of projects
+1. Guided
+    a. Pre-approved list of categorized projects with cash rewards if deemed acceptable upon submission. Plagurism is not encouraged. Projects can be worked on concurrently with other projects.
+        i. Easy Project: takes about one week of work. These projects can only be completed once per week.
+            1. Reward is $1 per project.
+        ii. Intermediate Project: Two to four weeks of work. These projects can only be completed twice per month.
+            2. Reward is $10 per project.
+        iii. Hard Project: About three months of work. These projects can only be completed twice every semester.
+            3. Reward is $100 per project.
+2. Original
+    a. Projects must be proposed to a teacher by students in any method of communication: written, verbal, video, performative. Three teachers/lecturers must approve of the same proposal with no changes. The project history of each student will be considered in the proposal.
+        i. The student may gain approvals from an outside teacher or lecturer with prior approval of the outsider from an Administrator.
+        ii. A student can only propose once per month.
+        iii. A student can ask for any amount of money and time for their budget. Every proposal must have a breakdown of costs. The easier to understand the breakdown of costs and the precedents associated with those costs, the greater the likelihood of approval. Costs can include labor of the student/students.
+    b. Approved projects will be awarded their funds. Projects will be evaluated by judges if they reached their goals within the time allotted. Time extensions are possible for 3-7 days, but asking for additional funds is prohibited.
+        i. Approved projects that have either failed terribly to reach any meaningful or substantive conclusions in proportion to their funding and time, the project will be deemed "a scam". Students are allowed to have one scam each on their public record. Students with a scam on their record must complete X hours of community service in proportion to the time and money allotted to their project. Community service must completed before engaging in project proposal again.
+        ii. Two scams on a student's record will result in automatic expulsion.
+    c. Physical projects must be recorded electronically and reused, recycled, or disposed of appropriately.
+
+------------------------------------------------------------------
+
+Proposition 2: Discord Rooms
+
+------------------------------------------------------------------
+
+Discord Rooms serves the following purposes
+1. As a social environment. Private glass-paned rooms are reserved for private conversations for those who have earned a budget or teachers.
+2. As a collaboration environment for both students and teachers.
+3. Double as teaching rooms.
+4. Students are allowed to play games but they may last no more than 30 min per day, unless it's related to their project. The players of the game must be registered with the monitor. Gambling is illegal. Monitors may engage in games to get information, but never indulge in them.
+5. School wifi is allowed but bandwidth is very limited and relatively slow.
+
+Students may travel freely between rooms. Students must sign where they will go and must sign in where they arrive (computer login/logout). Decibel meters will be placed in every room to determine if the rooms are too loud. Additional monitors will automatically be notified to enter the room.
+
+These rooms will always be monitored. Mental health concerns will be brought up. Culture of mental health concern.
+All school exits will be monitored and guarded.
+
+
+Project-drive Education is based on this post:
+https://www.quora.com/log/revision/324758404
+This youtube video:
+https://www.youtube.com/watch?v=1lTcgSzf0AQ
+This book:
+Turning Pro, by Steven Pressfield
+------------------------------------------------------------------
+
+What are the best and efficient ways to learn algorithms for beginners?
+Answer added by Arunava Chakraborty.
+Lets first discuss the different approaches to figure out the best and most efficient way (the optimal way) to learn Algorithms for Beginners :-
+
+$/ Brute Force -> To brute the optimal way, you can try every possible combinations of learning, and figure out the best one that suits you i.e the optimal way. The time complexity for this approach would be very high as you have to figure out every possible combination of learning.
+
+$/ Greedy Approach -> A greedy approach would be to make a locally optimized choice i.e. to pick a way that you think would be the best for you at that point of time and assume that it leads to a globally optimized choice (the optimal way) . It will be difficult to prove the correctness though. This approach would take time proportional to the number of optimizations you need to reach the optimal way. Hence, if we say there are `n` optimizations to make, then this approach would take O(n) time.
+
+$/ Divide and Conquer -> To apply a divide and conquer approach we need to make one observation. (1) The optimal way is not always the same for everyone. With that in mind and given a optimal way of a programmer you can divide (work on specific parts of the given way) and conquer (figure out if that part works out for you or not or it needs some modifications). Finally, you merge the subproblems to get your optimal way. This approach would take O(nlogn) time irrespective of the modifications required. Space Complexity would be high for this approach :P
+
+$/ Dynamic Programming -> Explore all the different ways of learning algorithms, take the one that best suites you. This approach takes exponential time O(2^n) where `n` is the number of ways, hence, this approach would take time but would give you the optimal way. Finally, a DP approach to get the optimal way would be to just to apply what you did except that you have to use memoization i.e to remember the optimizations (ways) that worked out for you and the ones that didn’t. This would bring down the time complexity from exponential time to polynomial time, about O(n^2).
+
+So what would be the best and the most efficient way?
+
+As observed, the optimal way is not always the same for two programmers. So, I cannot give you, your optimal way.
+
+But, I can give you the approach through which most programmers found their optimal way. I believe, most of us, programmers, used the greedy approach combined with DP technique. And trust me it works out great :)
+
+Although it would be difficult to prove the correctness while making a locally optimized choice :P
+
+P.S. For links to learn about algorithms you can get them from the other answers to this question.
+
+Thank you,
+
+Arunava
+
+------------------------------------------------------------------
+
+The reality is that algorithms don't lie and we don't need to learn everything about a subject.
