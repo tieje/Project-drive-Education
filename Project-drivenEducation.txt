@@ -48,7 +48,7 @@ Offered Classes and Lectures
 
 Voting for classes and lectures for next semester will be based on Quadratic Voting by students (based on https://www.bloomberg.com/news/articles/2019-05-01/a-new-way-of-voting-that-makes-zealotry-expensive)
 
-Nominations can be submitted any time. Submissions will be whittled down by Ranked Choice Voting at the beginning, middle, and end of every semester to determine classes and lectures offered next semester.
+Nominations for desired classes can be submitted any time. Submissions will be whittled down by Ranked Choice Voting at the beginning, middle, and end of every semester to determine classes and lectures offered next semester.
 
 ------------------------------------------------------------------
 
@@ -70,10 +70,10 @@ There are two kinds of projects
 2. Original
     a. Projects must be proposed to a teacher by students in any method of communication: written, verbal, video, performative. Three teachers/lecturers must approve of the same proposal with no changes. The project history of each student will be considered in the proposal.
         i. The student may gain approvals from an outside teacher or lecturer with prior approval of the outsider from an Administrator.
-        ii. A student can only propose once per month.
+        ii. A student can only propose a project once per month.
         iii. A student can ask for any amount of money and time for their budget. Every proposal must have a breakdown of costs. The easier to understand the breakdown of costs and the precedents associated with those costs, the greater the likelihood of approval. Costs can include labor of the student/students.
-    b. Approved projects will be awarded their funds. Projects will be evaluated by judges if they reached their goals within the time allotted. Time extensions are possible for 3-7 days, but asking for additional funds is prohibited.
-        i. Approved projects that have either failed terribly to reach any meaningful or substantive conclusions in proportion to their funding and time, the project will be deemed "a scam". Students are allowed to have one scam each on their public record. Students with a scam on their record must complete X hours of community service in proportion to the time and money allotted to their project. Community service must completed before engaging in project proposal again.
+    b. Approved projects will be awarded their funds. Projects will be evaluated by designated judges if they reached their goals within the time allotted. Time extensions are possible for 3-7 days, but asking for additional funds is prohibited.
+        i. Approved projects that have either failed terribly to reach any meaningful or substantive conclusions in proportion to their funding and time, the project will be deemed "a scam". Students are allowed to have one scam each on their public record. Students with a scam on their record must complete X hours of community service in proportion to the time and money allotted to their project. Community service must be completed before engaging in project proposals again.
         ii. Two scams on a student's record will result in automatic expulsion.
     c. Physical projects must be recorded electronically and reused, recycled, or disposed of appropriately.
 
@@ -84,19 +84,19 @@ Proposition 2: Discord Rooms
 ------------------------------------------------------------------
 
 Discord Rooms serves the following purposes
-1. As a social environment. Private glass-paned rooms are reserved for private conversations for those who have earned a budget or teachers.
+1. As a social environment. Private glass-paned rooms are reserved for private conversations for those who have earned a budget or for teachers/lecturers.
 2. As a collaboration environment for both students and teachers.
 3. Double as teaching rooms.
 4. Students are allowed to play games but they may last no more than 30 min per day, unless it's related to their project. The players of the game must be registered with the monitor. Gambling is illegal. Monitors may engage in games to get information, but never indulge in them.
 5. School wifi is allowed but bandwidth is very limited and relatively slow.
+6. Discord rooms should contain computers.
 
-Students may travel freely between rooms. Students must sign where they will go and must sign in where they arrive (computer login/logout). Decibel meters will be placed in every room to determine if the rooms are too loud. Additional monitors will automatically be notified to enter the room.
+Students may travel freely between rooms. Students must sign where they will go and must sign in where they arrive (computer login/logout/or proxy card). Students have 5 minutes to get to their travel location. Travel to each room will be displayed on a public ledger. Decibel meters will be placed in every room to determine if the rooms are too loud. Additional monitors will be automatically be notified to enter the room.
 
 These rooms will always be monitored. Mental health concerns will be brought up. Culture of mental health concern.
 All school exits will be monitored and guarded.
 
-
-Project-drive Education is based on this post:
+Project-driven Education is based on this post:
 https://www.quora.com/log/revision/324758404
 This youtube video:
 https://www.youtube.com/watch?v=1lTcgSzf0AQ
@@ -133,3 +133,20 @@ Arunava
 ------------------------------------------------------------------
 
 The reality is that algorithms don't lie and we don't need to learn everything about a subject.
+
+-----------------------------------------------------------------
+
+Proposition 3: Lectures and Teachers
+
+-----------------------------------------------------------------
+
+Each teacher/lecturer will triple as monitors and advisors to students when they are not teaching.
+-Teachers/lecturers will have a public syllabus so that students can determine which classes they would like to attend.
+-Their classes can be attended by any student, but they must sign up for the class one week prior, no exceptions.
+-Students can be removed from the classroom for any behavior problem.
+-Teachers/lecturers are incentivized to have the most engaging classes possible because if they don't receive enough votes, they might not be teaching there in the next semester. There will be teaching guidelines and qualifications, but they will be less stringent. Teachers must be recognized as older and more mature self-learning students, as in make it easy for a teacher to take risks into teaching an entirely different subject as long as they can gain some kind of outside approval. Teacher personal and career development are important.
+
+Solves the following common classroom problems:
+-student engagement (only those students who want to be there will join the class)
+-teacher engagement (teachers will be more enthusiastic about teaching students who care about their subject)
+
