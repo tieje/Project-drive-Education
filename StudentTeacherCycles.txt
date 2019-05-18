@@ -1,0 +1,108 @@
+Student Cycle
+
+All required classes are Pass/Fail, where Pass is 80-85% and above.
+
+Freshman year
+    Semester
+        First
+            Non-traditional Required classes
+                a. Learning How to Learn
+                b. Life Design, Prototyping, Mental Health, and Relationships
+                    i. Based on "Lean Startup" by Eric Ries and "Design Your Life" by Bill Burnett & Dave Evans
+                c. Professional Etiquette and Basic Computer skills. Professional etiquette is what separates adults from children.
+                d. Public speaking and persuasive writing. Extremely shy people can always opt for persuasive writing.
+                e. Fundamental Laws of Science and Math
+                    i. Includes the role of science in society, industry, and academia. Healthcare is the exception of project-driven education.
+                    ii. Learning basic STEM laws and axioms.
+        Second
+            Traditional Required classes
+                a. World History and Early human development according to Anthropology
+                    i. Emphasis that human "races" are unscientific social constructs
+                b. US History and Western thought
+                    i. Emphasis on a history of Western traditions and thought through the lens of historical moments
+                c. Civics/AP US Gov
+                    i. Emphasis on accountability of government by the people
+                d. Personal Finance
+                    i. Emphasis on common forms of investment such as real estate, the stock markets (index funds, roth IRAs, pensions, etc), and the difference between liabilities and seed investments
+                e. Psychology/AP Psychology
+                    i. Emphasis on inherent biases, how we perceive the world, and how we can take advantage of this information in every day life
+Sophomore year
+    Semester
+        First
+            a. Traditional Required classes continued
+            b. The students are finally allowed to vote for classes next semester. Votes are cast beginning, middle, and end of semester for optional classes next semester
+                i. Any class can be nominated by any student even non-voting students.
+                ii. Students are allotted chips for quadratic voting
+                    1. Quadratic voting: 100 chips total, 2 votes for a class costs 4 chips, 10 votes for a class costs 100 chips
+                iii. Classes will be ultimately chosen through ranked voting.
+        Second
+            a. Project-driven education begins.
+                i. Students may either work on pre-approved projects, but they are encouraged to propose their own original projects.
+                    1. Student not attending optional classes will reside in collaborative/social rooms called Voids (or Discord Rooms, idk I need a name). There are several types of voids that students can freely travel to with limitations. Traveling more than ~10 times raises an automatic red flag on the amount of the student's travel.
+                        a. Game Void. The playing of games is encouraged with limitations
+                            i. All participants must have sportsmanship.
+                            ii. The game must have redeeming qualities with deep lessons for the players involved.
+                            iii. Gambling and betting is strictly prohibited.
+                            iv.Only multiplayer games are allowed.
+                            v. All players must register with the room monitor prior to playing. Play time is extremely monitored.
+                            vi. The playing of games is limited to 40 minutes per day or 200 minutes per week, accruing only when the student has passed all their required class. Play time stacks over the course of the student's high school career. There will be obvious limitations and decreases on those with discplinary records.
+                            vii. Teachers are encouraged to play games with their students provided that another monitor is watching or the kids are well-behaved.
+                            viii. Decibel levels of each room will be monitored to automatically notify other monitors to enter the room.
+                        b. Study Void.
+                        c. Meeting Void. A room reserved for discussion.
+                        d. Students must register their travel to another void or classroom in the system before leaving. We may require proxy cards.
+                            i. Students have five minutes to get to the next Void or classroom
+                            ii. Students must log their arrival to the destination into the system.
+                            iii. There will be a publicly displayed ledger of student travel in the hallways to keep the student easily accountable by hallway monitors and students passing by.
+                        e. Bathroom usage
+                            i. Max of three bathroom passes per day. Must register going to the bathroom with either the monitor or the system.
+                                1. First pass is 15 min
+                                2. Second pass is 7.5 min
+                                3. Third pass is 5 min
+                        f. The role of Voids/Discord Rooms
+                            i. Socializing
+                            ii. Collaboration
+                            iii. Planning
+                            iv. Students can ask monitors to review their proposals.
+                            v. Students can ask monitors for advice, in which case the monitor's role changes advisor at that moment and must be switched in the system.
+                    2. Pre-approved projects have cash rewards that increase in magnitude with the difficulty level of the pre-approved project. Projects at each difficulty level can only be completed a limited amount of times per semester/period of time to prevent gaming the system.
+                        a. Cash rewards are to give students a message that their work is valuable and becomes more valuable with greater difficulty involved.
+                            i. Easy projects = $1/Takes about 1 week of work Only allowed one of this type of project per week.
+                            ii. Intermediate projects = $10/Takes about 2-4 weeks of work. Only allowed one of this type of project per month.
+                            iii. Hard projects = $100/Takes about 3 months of work. Only allowed twice of this type of project per semester.
+                        b. Student involvement in a project must be registered online by the student.
+                            i. Failure of registration by the student will limit the amount of pre-approved projects that student will be able to work on that semester due to the time requirement needed to be fulfilled for each project.
+                            ii. Students can abandon a pre-approved project at any time, but it's in their best interest to register the project's state into the system so they can engage in new pre-approved projects.
+                    3. Original Projects must be proposed by a method of communication. The student(s) need the budget and time approval of 2-3 or more teachers. Appointed, independent judges will evaluate the success or failure of the project based on substantive conclusions. Failing to reach the goal of the project does not mean failure to reach substantive conclusions.
+                        a. Projects that fail to reach a substantive conclusion are labeled as a "scam". Depending on the severity of the scam, the student will face punishment ranging from community service to expulsion.
+            b. Students that failed a required classes must take the classes again. Students are encouraged to re-take required classes again even if they have already passed them, although they will not be graded and their classroom participation is discouraged to allow new students to participate.
+            c. Students can begin attending optional classes, however, they must sign up for the class at least one week prior, otherwise they won't even be allowed to enter the classroom. Cancellations will lower the student's overall reputation when they present their project proposals.
+Junior year
+    Both semesters are devoted to Project-driven education.
+Senior year
+    Same as Junior year.
+
+------------------------------------------------------------------
+
+Teacher Cycle
+
+    a. Teachers that teach required classes
+        i. Retained from semester to semester
+        ii. Triple as Discord/Void room monitors and Advisors to students
+    b. Teachers that teach optional classes
+        i. Triple as Discord room  monitors and Advisors to students
+        ii. May or may not be retained each semester depending on whether students vote for the class for next semester.
+            1. Teachers are held accountable by the students to make the most engaging class possible.
+                a. It's not that hard to make an engaging class when all the students that attend actually want to be there.
+        iii. All optional class teachers that are not retained are kept in a network, just in case we require their services again.
+    c. All teachers are invited to build their own Guild or join one, each with their own public agenda and stances on life and education.
+        i. This allows teachers and students to understand and navigate special interest groups.
+        ii. This empowers teachers to be able to make clear and public choices to bring up issues in a transparent political arena.
+            1. The leader is the Guild Speaker chosen through quadratic voting and ranked choice voting.
+    d. Teachers that are in the network are given opportunities to teach subjects outside of their established expertise.
+        i. A local expert must look over the teachers proposed syllabus and approve it. This approval must be reviewed by an Admin. Depending on which semester, the teacher will have a 1-2 months to craft a new curriculum and learn the new subject as much as they can. As long as they stay one week ahead of class they should be successful.
+            1. Encourages teachers to learn new subjects by teaching other people.
+        ii. Allows for teachers in the network to rather easily return provided they are willing to learn and work hard.
+        iii. The students are the ones who hold the teacher accountable for teaching in a way that they think is useful.
+        iv. Teachers are encouraged to leave and start their own business or ventures.
+    e. Teachers are allowed to remove a student from the classroom for any behavioral reason.
