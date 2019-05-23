@@ -23,9 +23,9 @@ Freshman year
                 c. Civics/AP US Gov
                     i. Emphasis on accountability of government by the people
                 d. Personal Finance
-                    i. Emphasis on common forms of investment such as real estate, the stock markets (index funds, roth IRAs, pensions, etc), and the difference between liabilities and seed investments
+                    i. Emphasis on common forms of investment such as real estate, the stock markets (index funds, Roth IRAs, pensions, etc.), and the difference between liabilities and seed investments
                 e. Psychology/AP Psychology
-                    i. Emphasis on inherent biases, how we perceive the world, and how we can take advantage of this information in every day life
+                    i. Emphasis on inherent biases, how we perceive the world, and how we can take advantage of this information in everyday life
 Sophomore year
     Semester
         First
@@ -45,8 +45,8 @@ Sophomore year
                             iii. Gambling and betting is strictly prohibited.
                             iv. Only multiplayer games are allowed.
                             v. All players must register with the room monitor prior to playing. Play time is extremely monitored.
-                            vi. The playing of games is limited to 40 minutes per day or 200 minutes per week, accruing only when the student has passed all of their required classes. Play time stacks over the course of the student's high school career. There will be obvious limitations and decreases on those with discplinary records.
-                            vii. Teachers are encouraged to play games with their students provided that another monitor is watching or the kids are well-behaved.
+                            vi. The playing of games is limited to 40 minutes per day or 200 minutes per week, accruing only when the student has passed all their required classes. Play time stacks over the course of the student's high school career. There will be obvious limitations and decreases on those with disciplinary records.
+                            vii. Teachers are encouraged to play games with their students provided that another monitor is watching, or the kids are well-behaved.
                             viii. Decibel levels of each room will be monitored to automatically notify other monitors to enter the room.
                         b. Study Void. A room for studying.
                         c. Meeting Void. A room reserved for discussion. Other rooms will be reserved for performance arts.
@@ -65,7 +65,7 @@ Sophomore year
                             iii. Planning
                             iv. Students can ask monitors/teachers to review their proposals.
                             v. Students can ask monitors for advice, in which case the monitor's role changes to advisor at that moment and should be switched in the system.
-                    2. Pre-approved projects have cash rewards that increase in magnitude with the difficulty level of the pre-approved project. Projects at each difficulty level can only be completed a limited amount of times per semester/period of time to prevent gaming the system.
+                    2. Pre-approved projects have cash rewards that increase in magnitude with the difficulty level of the pre-approved project. Projects at each difficulty level can only be completed a limited amount of times per semester/period to prevent gaming the system.
                         a. Cash rewards are to give students a message that their work is valuable and becomes more valuable with greater difficulty involved.
                             i. Easy projects = $1/Takes about 1 week of work Only allowed one of this type of project per week.
                             ii. Intermediate projects = $10/Takes about 2-4 weeks of work. Only allowed one of this type of project per month.
@@ -75,8 +75,8 @@ Sophomore year
                             ii. Students can abandon a pre-approved project at any time, but it's in their best interest to register the project's state into the system so they can engage in new pre-approved projects.
                     3. Original Projects must be proposed by a method of communication. The student(s) need the budget and time approval of 2-3 or more teachers. Appointed, independent judges will evaluate the success or failure of the project based on substantive conclusions. Failing to reach the goal of the project does not mean failure to reach substantive conclusions.
                         a. Projects that fail to reach a substantive conclusion are labeled as a "scam". Depending on the severity of the scam, the student will face punishment ranging from community service to expulsion.
-            b. Students that failed a required classes must take the classes again. Students are encouraged to re-take required classes again even if they have already passed them, although they will not be graded and their classroom participation is discouraged to allow new students to participate.
-            c. Students can begin attending optional classes, however, they must sign up for the class at least one week prior, otherwise they won't even be allowed to enter the classroom. Cancellations will hurt the student's overall reputation when they present their project proposals.
+            b. Students that failed a required class must take the classes again. Students are encouraged to re-take required classes again even if they have already passed them, although they will not be graded, and their classroom participation is discouraged to allow new students to participate.
+            c. Students can begin attending optional classes; however, they must sign up for the class at least one week prior, otherwise they won't even be allowed to enter the classroom. Cancellations will hurt the student's overall reputation when they present their project proposals.
 Junior year
     Both semesters are devoted to Project-driven education.
 Senior year
@@ -90,19 +90,19 @@ Teacher Cycle
         i. Retained from semester to semester
         ii. Triple as Discord/Void room monitors and Advisors to students
     b. Teachers that teach optional classes
-        i. Triple as Discord room  monitors and Advisors to students
+        i. Triple as Discord room monitors and Advisors to students
         ii. May or may not be retained each semester depending on whether students vote for the class for next semester.
             1. Teachers are held accountable by the students to make the most engaging class possible.
-                a. It's not that hard to make an engaging class when all the students that attend actually want to be there.
+                a. It's not that hard to make an engaging class when all the students that attend want to be there.
         iii. All optional class teachers that are not retained are kept in a network, just in case we require their services again.
     c. All teachers are invited to build their own Guild or join one, each with their own public agenda and stances on life and education.
         i. This allows teachers and students to understand and navigate special interest groups.
         ii. This empowers teachers to be able to make clear and public choices to bring up issues in a transparent political arena.
             1. The leader is the Guild Speaker chosen through quadratic voting and ranked choice voting.
     d. Teachers that are in the network are given opportunities to teach subjects outside of their established expertise.
-        i. A local expert must look over the teachers proposed syllabus and approve it. This approval must be reviewed by an Admin. Depending on which semester, the teacher will have a 1-2 months to craft a new curriculum and learn the new subject as much as they can. As long as they stay one week ahead of class they should be successful.
+        i. A local expert must look over the teachers proposed syllabus and approve it. This approval must be reviewed by an Admin. Depending on which semester, the teacher will have a 1-2 months to craft a new curriculum and learn the new subject as much as they can. If they stay one week ahead of class, they should be successful.
             1. Encourages teachers to learn new subjects by teaching other people.
         ii. Allows for teachers in the network to easily return, provided they are willing to learn and work hard.
         iii. The students are the ones who hold the teacher accountable for teaching in a way that they think is useful.
         iv. Teachers are encouraged to leave and start their own business or ventures.
-    e. Teachers are allowed to remove a student from the classroom for any non-health related, behavioral reason.
+    e. Teachers can remove a student from the classroom for any non-health related, behavioral reason.
