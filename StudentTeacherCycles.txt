@@ -12,7 +12,7 @@ Freshman year
                 c. Professional Etiquette and Basic Computer skills. Professional etiquette is what separates adults from children.
                 d. Public speaking and persuasive writing. Extremely shy people can always opt for persuasive writing.
                 e. Fundamental Laws of Science and Math
-                    i. Includes the role of science in society, industry, and academia. Healthcare is the exception of project-driven education.
+                    i. Includes the role of science in society, industry, and academia. Primary healthcare is the exception of project-driven education.
                     ii. Learning basic STEM laws and axioms.
         Second
             Traditional Required classes
@@ -43,13 +43,13 @@ Sophomore year
                             i. All participants must have sportsmanship.
                             ii. The game must have redeeming qualities with deep lessons for the players involved.
                             iii. Gambling and betting is strictly prohibited.
-                            iv.Only multiplayer games are allowed.
+                            iv. Only multiplayer games are allowed.
                             v. All players must register with the room monitor prior to playing. Play time is extremely monitored.
-                            vi. The playing of games is limited to 40 minutes per day or 200 minutes per week, accruing only when the student has passed all their required class. Play time stacks over the course of the student's high school career. There will be obvious limitations and decreases on those with discplinary records.
+                            vi. The playing of games is limited to 40 minutes per day or 200 minutes per week, accruing only when the student has passed all of their required classes. Play time stacks over the course of the student's high school career. There will be obvious limitations and decreases on those with discplinary records.
                             vii. Teachers are encouraged to play games with their students provided that another monitor is watching or the kids are well-behaved.
                             viii. Decibel levels of each room will be monitored to automatically notify other monitors to enter the room.
-                        b. Study Void.
-                        c. Meeting Void. A room reserved for discussion.
+                        b. Study Void. A room for studying.
+                        c. Meeting Void. A room reserved for discussion. Other rooms will be reserved for performance arts.
                         d. Students must register their travel to another void or classroom in the system before leaving. We may require proxy cards.
                             i. Students have five minutes to get to the next Void or classroom
                             ii. Students must log their arrival to the destination into the system.
@@ -63,8 +63,8 @@ Sophomore year
                             i. Socializing
                             ii. Collaboration
                             iii. Planning
-                            iv. Students can ask monitors to review their proposals.
-                            v. Students can ask monitors for advice, in which case the monitor's role changes advisor at that moment and must be switched in the system.
+                            iv. Students can ask monitors/teachers to review their proposals.
+                            v. Students can ask monitors for advice, in which case the monitor's role changes to advisor at that moment and should be switched in the system.
                     2. Pre-approved projects have cash rewards that increase in magnitude with the difficulty level of the pre-approved project. Projects at each difficulty level can only be completed a limited amount of times per semester/period of time to prevent gaming the system.
                         a. Cash rewards are to give students a message that their work is valuable and becomes more valuable with greater difficulty involved.
                             i. Easy projects = $1/Takes about 1 week of work Only allowed one of this type of project per week.
@@ -76,7 +76,7 @@ Sophomore year
                     3. Original Projects must be proposed by a method of communication. The student(s) need the budget and time approval of 2-3 or more teachers. Appointed, independent judges will evaluate the success or failure of the project based on substantive conclusions. Failing to reach the goal of the project does not mean failure to reach substantive conclusions.
                         a. Projects that fail to reach a substantive conclusion are labeled as a "scam". Depending on the severity of the scam, the student will face punishment ranging from community service to expulsion.
             b. Students that failed a required classes must take the classes again. Students are encouraged to re-take required classes again even if they have already passed them, although they will not be graded and their classroom participation is discouraged to allow new students to participate.
-            c. Students can begin attending optional classes, however, they must sign up for the class at least one week prior, otherwise they won't even be allowed to enter the classroom. Cancellations will lower the student's overall reputation when they present their project proposals.
+            c. Students can begin attending optional classes, however, they must sign up for the class at least one week prior, otherwise they won't even be allowed to enter the classroom. Cancellations will hurt the student's overall reputation when they present their project proposals.
 Junior year
     Both semesters are devoted to Project-driven education.
 Senior year
@@ -102,7 +102,7 @@ Teacher Cycle
     d. Teachers that are in the network are given opportunities to teach subjects outside of their established expertise.
         i. A local expert must look over the teachers proposed syllabus and approve it. This approval must be reviewed by an Admin. Depending on which semester, the teacher will have a 1-2 months to craft a new curriculum and learn the new subject as much as they can. As long as they stay one week ahead of class they should be successful.
             1. Encourages teachers to learn new subjects by teaching other people.
-        ii. Allows for teachers in the network to rather easily return provided they are willing to learn and work hard.
+        ii. Allows for teachers in the network to easily return, provided they are willing to learn and work hard.
         iii. The students are the ones who hold the teacher accountable for teaching in a way that they think is useful.
         iv. Teachers are encouraged to leave and start their own business or ventures.
-    e. Teachers are allowed to remove a student from the classroom for any behavioral reason.
+    e. Teachers are allowed to remove a student from the classroom for any non-health related, behavioral reason.
