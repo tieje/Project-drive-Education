@@ -1,0 +1,1 @@
+-What is dynamic programming, look into how it was discovered to be the most efficient method to be used by the military

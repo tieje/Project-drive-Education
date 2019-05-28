@@ -1,0 +1,27 @@
+Pitch for PBL
+Introduction
+-My story about learning coding and programming on my own
+-Learning about algorithms when I found an answer on quora that struck as common sense
+-When people actually try to learn stuff, we use a combination of dynamic programming and the greedy approach. Dynamic programming has been found to the most useful approach by the military in military strategy (look into this discovery in WWII military)
+-As adults, the best way to learn something while also producing tangible results is usually through projects. Why don't we use project-driven education in our schools for teaching high schoolers where students can present proposals and if successful, receive a budget and a deadline for project evaluation?
+-Right now we have a test-driven education system that is thoroughly broken. It heavily favors those from upper middle class families while being widely unpopular, yet readily accepted due to tradition. And even if you make it out of high school, we push all of our kids to college, which is erroneous because not only do we load them with ridiculous amounts of student debt, a lot of these kids are still unsure about what they really want to do. I believe that a project-driven education system is dynamic enough to address the educational wants and needs of everyone, including the poor and lower-middle class, while being robust enough to help kids make the personal narrative gains necessary for stable mental, physical, social, and financial health.
+
+Main Pitch
+We have a vague notion that by memorizing or learning vast sums of information in school, most of which we never use again, that we will become "successful". We entrust our future to pieces of paper called tests and homework and it's insane when you think about it that.
+-For a school centered around project-based learning, there should only be a few required classes such as...
+Easiest way to understand this is to give an overview of all the required classes and the progress of students from Freshman to Senior year
+-All other classes being offered are optional to attend. There would a public syllabus for each class so that the student can decide whether it's related to their project or if it interests them. They'll have to sign up one week prior to attend the class.
+
+Student cycle
+
+Teacher cycle
+Basically everything that I have down on txt file but I need to write the arguments for and against.
+
+The arguments for and against will have categories of arguments for each.
+Psychological
+Philosophical
+Sociological
+Biological
+
+I might want to write a book. It will tell people to skip sections if you agree.
+It's more important that I get whatever I can written down.
